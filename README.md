@@ -14,9 +14,9 @@
 - Gambar2
 ![Img 2] <img width="959" alt="Screenshot 4" src="https://github.com/user-attachments/assets/1a217f2e-ec62-431f-82dd-9cc5cd1001ab">
 
-## 3. Kemudian atur atribut paragraf dan menambahkan sub judul
+## 3. MENAMBAHKAN INLINE CSS
 - Gambar 1
-![Img 4]![Screenshot 5](https://github.com/user-attachments/assets/a22feeb8-f2ed-40a9-9b28-a10eff3308ea)
+![Img 1]<img width="958" alt="Screenshot 5" src="https://github.com/user-attachments/assets/83f31407-3918-47d7-88cc-b94cfda7bf77">
 - Gambar result 1
 ![Img 5]<img width="959" alt="Screenshot 4" src="https://github.com/user-attachments/assets/5b36782d-d569-403f-a5d3-63784e9c7d05">
 ## 4. Format teks pada paragraf tersebut
