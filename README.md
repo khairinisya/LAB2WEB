@@ -4,9 +4,10 @@
 ## kelas :TI 23 A.4
 ## 1. MEMBUAT DOKUMEN HTML.
 - Gambar1
-![Img 1]<img <img width="959" alt="Screenshot 1 png" src="https://github.com/user-attachments/assets/92cac98f-be85-46a0-ab66-eef121ede963">
+![Img 1]<img width="959" alt="Screenshot 1 png" src="https://github.com/user-attachments/assets/92cac98f-be85-46a0-ab66-eef121ede963">
 - Gambar2
-![Img 2]![Screenshot 2](https://github.com/user-attachments/assets/af617df1-7bc8-4825-ae77-526cdfed2db0)
+![Img 2] <img width="957" alt="Screenshot 2" src="https://github.com/user-attachments/assets/6fe66550-bf1a-416a-96fe-9ceda2fe48c1">
+
 ## 2. Kemudian membuat beberapa paragraf sederhana
 - Gambar result
 ![Img 3]![3](https://github.com/user-attachments/assets/90b090b5-a46f-4447-b942-7b3b0e674e57)
