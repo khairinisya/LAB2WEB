@@ -8,9 +8,10 @@
 - Gambar2
 ![Img 2] <img width="957" alt="Screenshot 2" src="https://github.com/user-attachments/assets/6fe66550-bf1a-416a-96fe-9ceda2fe48c1">
 
-## 2. Kemudian membuat beberapa paragraf sederhana
-- Gambar result
-![Img 3]![3](https://github.com/user-attachments/assets/90b090b5-a46f-4447-b942-7b3b0e674e57)
+## 2. MENDEKLARASIKAN CSS INTERNAL
+- Gambar 
+![Img 3]<img width="959" alt="Screenshot 3" src="https://github.com/user-attachments/assets/fd5b6514-3ac7-4200-96bf-96781f1405cd">
+
 ## 3. Kemudian atur atribut paragraf dan menambahkan sub judul
 - Gambar 1
 ![Img 4]![Screenshot 5](https://github.com/user-attachments/assets/a22feeb8-f2ed-40a9-9b28-a10eff3308ea)
