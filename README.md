@@ -17,8 +17,9 @@
 ## 3. MENAMBAHKAN INLINE CSS
 - Gambar 1
 ![Img 1]<img width="958" alt="Screenshot 5" src="https://github.com/user-attachments/assets/83f31407-3918-47d7-88cc-b94cfda7bf77">
-- Gambar result 1
-![Img 5]<img width="959" alt="Screenshot 4" src="https://github.com/user-attachments/assets/5b36782d-d569-403f-a5d3-63784e9c7d05">
+- Gambar 2
+![Img 2]<img width="953" alt="Screenshot 6" src="https://github.com/user-attachments/assets/faeb1f9e-f5aa-4dae-8965-1f31dc5a861e">
+
 ## 4. Format teks pada paragraf tersebut
 - Gambar result
 ![Img 6]![Screenshot 6](https://github.com/user-attachments/assets/e3bf18e7-4d83-4371-b41f-0a7d18053c81)
